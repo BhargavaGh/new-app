@@ -1,2 +1,3 @@
 getch 
-ffghh fcdecj
+ffghh
+ghgh
